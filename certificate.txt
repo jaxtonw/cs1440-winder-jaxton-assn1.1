@@ -1,0 +1,12 @@
+TUTR_REVISION=c173950
+TIME=1720510009
+UNAME=Linux
+SHELL=/bin/bash
+BASH_VERSION=5.2.26(1)-release
+git version 2.45.2
+
+0-shortcuts.sh	1720509854	9	lesson_complete	13
+b5f44e2d473e3a13e4f163b7e46d0db65e3bb871
+1-redirection.sh	1720509983	10	lesson_complete	16
+bb1e63bcb56dc3baeaa4608eeb1a590632f6162b
+98873ba91c7e05fd095d4b73de3971b2579237b5
